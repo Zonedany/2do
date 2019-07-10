@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Lab8.h"
+#include "lab8.h"
 
 int main(){
    ArbolB *a = CrearArbolB();
